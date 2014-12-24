@@ -5,7 +5,7 @@ It is a codeigniter email library to check connection, count and read emails fro
 This is a basic version of email reader.
 @package 	Codeignitor, IMAP
 @author 	Kakesh Narayan Pradhan
-@since 	1.0
+@since 	  1.0
 
 Class Name: Email_Reader
 Properties: 
